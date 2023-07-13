@@ -1,0 +1,9 @@
+# ninja log v5
+1	279	7109556153215607	CMakeFiles/sum_of_squares_of_elements.dir/main.cpp.obj	1e578ba89bebe438
+281	379	7109556154181624	sum_of_squares_of_elements.exe	93b9a297cf7df13b
+2	248	7109556871812947	CMakeFiles/sum_of_squares_of_elements.dir/main.cpp.obj	1e578ba89bebe438
+248	320	7109556872493152	sum_of_squares_of_elements.exe	93b9a297cf7df13b
+2	234	7109557554427000	CMakeFiles/sum_of_squares_of_elements.dir/main.cpp.obj	1e578ba89bebe438
+234	298	7109557555038471	sum_of_squares_of_elements.exe	93b9a297cf7df13b
+2	247	7109560367397545	CMakeFiles/sum_of_squares_of_elements.dir/main.cpp.obj	1e578ba89bebe438
+247	310	7109560368004848	sum_of_squares_of_elements.exe	93b9a297cf7df13b
